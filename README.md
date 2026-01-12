@@ -1,6 +1,2 @@
 # egco344_2569_ch1
-Hello Woody
-<!--
-Woody
-/!-->
-Hello Jade
+NOT HELLO FROM WOODY
