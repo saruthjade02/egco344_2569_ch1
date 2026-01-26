@@ -2,3 +2,7 @@
 correct from remotes
 
 My name is Jade
+
+I love MLBB more than AOV.
+
+MLBB >>> AOV
